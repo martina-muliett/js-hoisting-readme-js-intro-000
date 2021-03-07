@@ -9,6 +9,7 @@ function callMe() {
   return lyric;
 }
 
+crazy();
 
 function crazy() {
   thisIsCrazy();
