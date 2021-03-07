@@ -1,3 +1,4 @@
+callMe();
 
 function callMe() {
   var lyric = "maybe";
